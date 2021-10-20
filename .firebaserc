@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "requisicoes-app-f56d0": {
+      "hosting": {
+        "requisicoes-app": [
+          "requisicoes-app-f56d0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "requisicoes-app-f56d0"
+  }
+}
